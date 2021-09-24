@@ -1,0 +1,609 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "createdAt": 1632450506599,
+      "name": "Pizza"
+    },
+    {
+      "name": "Drinks",
+      "createdAt": 1632450926986,
+      "id": 3
+    },
+    {
+      "name": "Pasta",
+      "createdAt": 1632450926986,
+      "id": 4
+    },
+    {
+      "name": "Burgers",
+      "createdAt": 1632450926984,
+      "id": 5
+    }
+  ],
+  "foods": [
+    {
+      "id": 1,
+      "name": "Bacon Burger",
+      "rate": 4,
+      "description": "A mighty meaty double helping of all the reasons you love our burger.",
+      "categoryId": 5,
+      "images": {
+        "image1": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/2-1.png",
+        "image2": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/2-2.png"
+      },
+      "prices": {
+        "lastPrice": 10.95
+      }
+    },
+    {
+      "id": 2,
+      "name": "Cheese Butter",
+      "rate": 4,
+      "description": "A mighty meaty double helping of all the reasons you love our burger.",
+      "categoryId": 5,
+      "images": {
+        "image1": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/7-1.png",
+        "image2": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/7-2.png"
+      },
+      "prices": {
+        "lastPrice": 15.76
+      }
+    },
+    {
+      "id": 3,
+      "name": "Chicken Burger",
+      "rate": 4,
+      "description": "A mighty meaty double helping of all the reasons you love our burger.",
+      "categoryId": 5,
+      "images": {
+        "image1": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/8-1.png",
+        "image2": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/8-2.png"
+      },
+      "prices": {
+        "lastPrice": 16.75
+      }
+    },
+    {
+      "id": 4,
+      "name": "Country Burger",
+      "rate": 3.8,
+      "description": "A mighty meaty double helping of all the reasons you love our burger.",
+      "categoryId": 5,
+      "images": {
+        "image1": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/13-1.png",
+        "image2": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/13-2.png"
+      },
+      "prices": {
+        "lastPrice": 11.24
+      }
+    },
+    {
+      "id": 5,
+      "name": "Double Beef Burger",
+      "rate": 4,
+      "description": "A mighty meaty double helping of all the reasons you love our burger.",
+      "categoryId": 5,
+      "images": {
+        "image1": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/14-1.png",
+        "image2": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/14-2.png"
+      },
+      "prices": {
+        "lastPrice": 16.75
+      }
+    },
+    {
+      "id": 6,
+      "name": "Double Cheese",
+      "rate": 4.2,
+      "description": "A mighty meaty double helping of all the reasons you love our burger.",
+      "categoryId": 5,
+      "images": {
+        "image1": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/15-1.png",
+        "image2": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/15-2.png"
+      },
+      "prices": {
+        "firstPrice": 12.04,
+        "lastPrice": 9.0
+      }
+    },
+    {
+      "id": 7,
+      "name": "Original Burger",
+      "rate": 4,
+      "description": "A mighty meaty double helping of all the reasons you love our burger.",
+      "categoryId": 5,
+      "images": {
+        "image1": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/33-1.png",
+        "image2": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/33-2.png"
+      },
+      "prices": {
+        "lastPrice": 13.94
+      }
+    },
+    {
+      "id": 8,
+      "name": "Pene Salmone",
+      "rate": 3.5,
+      "description": "A mighty meaty double helping of all the reasons you love our burger.",
+      "categoryId": 5,
+      "images": {
+        "image1": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/34-1.png",
+        "image2": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/34-2.png"
+      },
+      "prices": {
+        "firstPrice": 12.04,
+        "lastPrice": 9.0
+      }
+    },
+    {
+      "id": 9,
+      "name": "Blueberry Shake",
+      "rate": 4,
+      "description": "Iced coffee is a type of coffee beverage served chilled, brewed variously with the fundamental division",
+      "categoryId": 3,
+      "images": {
+        "image1": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/5-1.png",
+        "image2": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/5-2.png"
+      },
+      "prices": {
+        "lastPrice": 10.68
+      }
+    },
+    {
+      "id": 10,
+      "name": "Fresh Lime",
+      "rate": 3.5,
+      "description": "Browse unique Coca-Cola products, clothing, & accessories, or customize Coke bottles and gifts",
+      "categoryId": 3,
+      "images": {
+        "image1": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/16-1.png",
+        "image2": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/16-2.png"
+      },
+      "prices": {
+        "lastPrice": 16.02
+      }
+    },
+    {
+      "id": 11,
+      "name": "Ice Lime Cola",
+      "rate": 3.5,
+      "description": "Browse unique Coca-Cola products, clothing, & accessories, or customize Coke bottles and gifts",
+      "categoryId": 3,
+      "images": {
+        "image1": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/22-1.png",
+        "image2": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/22-1.png"
+      },
+      "prices": {
+        "firstPrice": 16.78,
+        "lastPrice": 11.0
+      }
+    },
+    {
+      "id": 12,
+      "name": "Iced Tea",
+      "rate": 3.5,
+      "description": "A mighty meaty double helping of all the reasons you love our burger.",
+      "categoryId": 3,
+      "images": {
+        "image1": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/24-1.png",
+        "image2": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/24-2.png"
+      },
+      "prices": {
+        "firstPrice": 12.46,
+        "lastPrice": 8.0
+      }
+    },
+    {
+      "id": 13,
+      "name": "Kiwi Smoothie",
+      "rate": 3.8,
+      "description": "Iced coffee is a type of coffee beverage served chilled, brewed variously with the fundamental division",
+      "categoryId": 3,
+      "images": {
+        "image1": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/27-1.png",
+        "image2": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/27-1.png"
+      },
+      "prices": {
+        "lastPrice": 12.33
+      }
+    },
+    {
+      "id": 14,
+      "name": "Iced Tea Bottle",
+      "rate": 4,
+      "description": "A mighty meaty double helping of all the reasons you love our burger.",
+      "categoryId": 3,
+      "images": {
+        "image1": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/25-1.png",
+        "image2": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/25-1.png"
+      },
+      "prices": {
+        "lastPrice": 11.89
+      }
+    },
+    {
+      "id": 15,
+      "name": "Lemonades Drink",
+      "rate": 4,
+      "description": "A mighty meaty double helping of all the reasons you love our burger.",
+      "categoryId": 3,
+      "images": {
+        "image1": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/28-1.png",
+        "image2": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/28-2.png"
+      },
+      "prices": {
+        "lastPrice": 18.26
+      }
+    },
+    {
+      "id": 16,
+      "name": "Soda Bottles",
+      "rate": 3.9,
+      "description": "A mighty meaty double helping of all the reasons you love our burger.",
+      "categoryId": 3,
+      "images": {
+        "image1": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/22-1.png",
+        "image2": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/22-2.png"
+      },
+      "prices": {
+        "lastPrice": 10.78
+      }
+    },
+    {
+      "id": 17,
+      "name": "Strawberry Shake",
+      "rate": 4.2,
+      "description": "A mighty meaty double helping of all the reasons you love our burger.",
+      "categoryId": 3,
+      "images": {
+        "image1": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/45-1.png",
+        "image2": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/45-1.png"
+      },
+      "prices": {
+        "firstPrice": 18.86,
+        "lastPrice": 14.0
+      }
+    },
+    {
+      "id": 18,
+      "name": "Strawberry Tea",
+      "rate": 4,
+      "description": "Browse unique Coca-Cola products, clothing, & accessories, or customize Coke bottles and gifts",
+      "categoryId": 3,
+      "images": {
+        "image1": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/46-1.png",
+        "image2": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/46-2.png"
+      },
+      "prices": {
+        "firstPrice": 15.87,
+        "lastPrice": 9.0
+      }
+    },
+    {
+      "id": 19,
+      "name": "Trio Cafe",
+      "rate": 4,
+      "description": "Trio Cafe is Family owned establishment located in Boston Waterfront next to World Trade Center.",
+      "categoryId": 3,
+      "images": {
+        "image1": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/50-1.png",
+        "image2": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/50-2.png"
+      },
+      "prices": {
+        "lastPrice": 12.26
+      }
+    },
+    {
+      "id": 20,
+      "name": "Tropicana Juice",
+      "rate": 4.8,
+      "description": "View great tasting Tropicana Orange Juice and Juice Drink Products. Featuring Tropicana Orange Juice",
+      "categoryId": 3,
+      "images": {
+        "image1": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/52-1.png",
+        "image2": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/52-2.png"
+      },
+      "prices": {
+        "lastPrice": 11.11
+      }
+    },
+    {
+      "id": 21,
+      "name": "Water Bottle",
+      "rate": 3.5,
+      "description": "Investing in a reusable water bottle that you can refill throughout the day. Carrying one around with you will make you more likely to drink up.",
+      "categoryId": 3,
+      "images": {
+        "image1": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/54.1.png",
+        "image2": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/54-2.png"
+      },
+      "prices": {
+        "lastPrice": 10.18
+      }
+    },
+    {
+      "id": 22,
+      "name": "BBQ chicken breast",
+      "rate": 3,
+      "description": "A mighty meaty double helping of all the reasons you love our breast.",
+      "categoryId": 4,
+      "images": {
+        "image1": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/3-1.png",
+        "image2": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/3-2.png"
+      },
+      "prices": {
+        "lastPrice": 8.0,
+        "firstPrice": 12.61
+      }
+    },
+    {
+      "id": 23,
+      "name": "Bolognese Pasta",
+      "rate": 3.5,
+      "description": "A mighty meaty double helping of all the reasons you love our breast.",
+      "categoryId": 4,
+      "images": {
+        "image1": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/6-1.png",
+        "image2": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/6-2.png"
+      },
+      "prices": {
+        "lastPrice": 8.0,
+        "firstPrice": 10.41
+      }
+    },
+    {
+      "id": 24,
+      "name": "Molto Tagliatelle",
+      "rate": 3,
+      "description": "A mighty meaty double helping of all the reasons you love our breast.",
+      "categoryId": 4,
+      "images": {
+        "image1": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/29-1.png",
+        "image2": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/29-2.png"
+      },
+      "prices": {
+        "lastPrice": 8.0,
+        "firstPrice": 14.61
+      }
+    },
+    {
+      "id": 25,
+      "name": "Penne Funghi Chicken",
+      "rate": 3.5,
+      "description": "A mighty meaty double helping of all the reasons you love our breast.",
+      "categoryId": 4,
+      "images": {
+        "image1": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/35-1.png",
+        "image2": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/35-2.png"
+      },
+      "prices": {
+        "lastPrice": 14.4
+      }
+    },
+    {
+      "id": 26,
+      "name": "Spaghetti Bolognese",
+      "rate": 4.4,
+      "description": "A mighty meaty double helping of all the reasons you love our breast.",
+      "categoryId": 4,
+      "images": {
+        "image1": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/43-1.png",
+        "image2": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/43-2.png"
+      },
+      "prices": {
+        "lastPrice": 8.0,
+        "firstPrice": 10.61
+      }
+    },
+    {
+      "id": 27,
+      "name": "Tagliatelle Molto",
+      "rate": 4.5,
+      "description": "A mighty meaty double helping of all the reasons you love our breast.",
+      "categoryId": 4,
+      "images": {
+        "image1": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/49-1.png",
+        "image2": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/49-2.png"
+      },
+      "prices": {
+        "lastPrice": 8.0,
+        "firstPrice": 15.61
+      }
+    },
+    {
+      "id": 28,
+      "name": "Apricot Chicken",
+      "rate": 3.8,
+      "description": "Crispy bacon, tasty ham, pineapple, onion and stretchy mozzarella, finished with a BBQ swirl.",
+      "categoryId": 1,
+      "images": {
+        "image1": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/1-1.png",
+        "image2": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/1-2.png"
+      },
+      "prices": {
+        "lastPrice": 18.3
+      }
+    },
+    {
+      "id": 29,
+      "name": "Chicken Hawaii",
+      "rate": 3.8,
+      "description": "Extra-virgin olive oil, mozzarella cheese, thinly-sliced steak meat, garlic, green peppers, mushrooms and tomatoes",
+      "categoryId": 1,
+      "images": {
+        "image1": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/9-1.png",
+        "image2": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/9-2.png"
+      },
+      "prices": {
+        "lastPrice": 14.49
+      }
+    },
+    {
+      "id": 30,
+      "name": "Grand Italiano",
+      "rate": 4.2,
+      "description": "Quisque pretium turpis non tempus cursus. Nulla consequat, mi nec pellentesque imperdiet, mi quam congue magna, tristique commodo.",
+      "categoryId": 1,
+      "images": {
+        "image1": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/17-1.png",
+        "image2": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/17-2.png"
+      },
+      "prices": {
+        "lastPrice": 7.0,
+        "firstPrice": 11.42
+      }
+    },
+    {
+      "id": 31,
+      "name": "Hawaii Vegetarian Pizza",
+      "rate": 4,
+      "description": "Mouth watering pepperoni, cabanossi, mushroom, capsicum, black olives and stretchy mozzarella, seasoned with garlic and oregano.",
+      "categoryId": 1,
+      "images": {
+        "image1": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/18-1.png",
+        "image2": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/18-2.png"
+      },
+      "prices": {
+        "lastPrice": 12.16
+      }
+    },
+    {
+      "id": 32,
+      "name": "Italiano Original",
+      "rate": 4.1,
+      "description": "Ricotta, sun dried tomatoes, garlic, mozzarella cheese, topped with lightly drizzled red sauce, pesto, and fresh basil",
+      "categoryId": 1,
+      "images": {
+        "image1": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/26-1.png",
+        "image2": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/26-2.png"
+      },
+      "prices": {
+        "lastPrice": 12.63
+      }
+    },
+    {
+      "id": 33,
+      "name": "Pepperoni Calzone",
+      "rate": 4,
+      "description": "Piled with shrimp, calamari, clams, mussels, surimi and stretchy mozzarella, seasoned with tangy lemon pepper.",
+      "categoryId": 1,
+      "images": {
+        "image1": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/36-1.png",
+        "image2": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/36-2.png"
+      },
+      "prices": {
+        "lastPrice": 12.0,
+        "firstPrice": 15.88
+      }
+    },
+    {
+      "id": 34,
+      "name": "Pepperoni Pizza",
+      "rate": 3.1,
+      "description": "Extra-virgin olive oil, garlic, mozzarella cheese, onions, mushrooms, green olives, black olives, fresh tomatoes.",
+      "categoryId": 1,
+      "images": {
+        "image1": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/37-1.png",
+        "image2": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/37-2.png"
+      },
+      "prices": {
+        "lastPrice": 19.75
+      }
+    },
+    {
+      "id": 35,
+      "name": "Primo Meat",
+      "rate": 3.5,
+      "description": "Mouth watering pepperoni, cabanossi, mushroom, capsicum, black olives and stretchy mozzarella,",
+      "categoryId": 1,
+      "images": {
+        "image1": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/40-1.png",
+        "image2": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/40-2.png"
+      },
+      "prices": {
+        "lastPrice": 9.0,
+        "firstPrice": 15.83
+      }
+    },
+    {
+      "id": 36,
+      "name": "Summer Pizza",
+      "rate": 3.8,
+      "description": "Shrimp, Red Capsicum, Green Capsicum, Onion, Chilli flakes, Lemon Pepper, Mozzarella, finished with Aioli",
+      "categoryId": 1,
+      "images": {
+        "image1": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/47-1.png",
+        "image2": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/47-2.png"
+      },
+      "prices": {
+        "lastPrice": 9.0,
+        "firstPrice": 15.83
+      }
+    },
+    {
+      "id": 37,
+      "name": "Supreme Pizza",
+      "rate": 4.4,
+      "description": "Ricotta, sun dried tomatoes, garlic, mozzarella cheese, topped with lightly drizzled red sauce, pesto, and fresh basil",
+      "categoryId": 1,
+      "images": {
+        "image1": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/48-1.png",
+        "image2": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/48-2.png"
+      },
+      "prices": {
+        "lastPrice": 12.16
+      }
+    },
+    {
+      "id": 38,
+      "name": "Trio Cheese",
+      "rate": 4,
+      "description": "Mouth watering pepperoni, cabanossi, mushroom, capsicum, black olives and stretchy mozzarella",
+      "categoryId": 1,
+      "images": {
+        "image1": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/51-1.png",
+        "image2": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/51-2.png"
+      },
+      "prices": {
+        "lastPrice": 12.0,
+        "firstPice": 16.93
+      }
+    },
+    {
+      "id": 38,
+      "name": "Vegge Lover",
+      "rate": 4,
+      "description": "Extra-virgin olive oil, garlic, mozzarella cheese, onions, mushrooms, green olives, black olives",
+      "categoryId": 1,
+      "images": {
+        "image1": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/53-1.png",
+        "image2": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/53-2.png"
+      },
+      "prices": {
+        "lastPrice": 14.9,
+        "firstPice": 16.93
+      }
+    }
+  ],
+
+  "users": [
+    {
+      "id": 1,
+      "firstName": "Nguyen",
+      "lastName": "Vu",
+      "email": "duyvujarvan4@gmail.com",
+      "password": "Vu15112000@"
+    }
+  ],
+  "carts": [
+    {
+      "id": 1,
+      "name": "Bacon Burger", 
+      "quantity": 1,
+      "userId": 1,
+      "image": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/2-1.png",
+      "price": 10.95
+    }
+  ]
+}
