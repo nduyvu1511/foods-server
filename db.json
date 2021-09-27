@@ -28,6 +28,7 @@
       "rate": 4,
       "description": "A mighty meaty double helping of all the reasons you love our burger.",
       "categoryId": 5,
+      "category": "burger",
       "images": {
         "image1": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/2-1.png",
         "image2": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/2-2.png"
@@ -42,6 +43,7 @@
       "rate": 4,
       "description": "A mighty meaty double helping of all the reasons you love our burger.",
       "categoryId": 5,
+      "category": "burger",
       "images": {
         "image1": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/7-1.png",
         "image2": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/7-2.png"
@@ -56,6 +58,7 @@
       "rate": 4,
       "description": "A mighty meaty double helping of all the reasons you love our burger.",
       "categoryId": 5,
+      "category": "burger",
       "images": {
         "image1": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/8-1.png",
         "image2": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/8-2.png"
@@ -70,6 +73,7 @@
       "rate": 3.8,
       "description": "A mighty meaty double helping of all the reasons you love our burger.",
       "categoryId": 5,
+      "category": "burger",
       "images": {
         "image1": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/13-1.png",
         "image2": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/13-2.png"
@@ -84,6 +88,7 @@
       "rate": 4,
       "description": "A mighty meaty double helping of all the reasons you love our burger.",
       "categoryId": 5,
+      "category": "burger",
       "images": {
         "image1": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/14-1.png",
         "image2": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/14-2.png"
@@ -98,13 +103,14 @@
       "rate": 4.2,
       "description": "A mighty meaty double helping of all the reasons you love our burger.",
       "categoryId": 5,
+      "category": "burger",
       "images": {
         "image1": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/15-1.png",
         "image2": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/15-2.png"
       },
       "prices": {
         "firstPrice": 12.04,
-        "lastPrice": 9.0
+        "lastPrice": 9.00
       }
     },
     {
@@ -113,6 +119,7 @@
       "rate": 4,
       "description": "A mighty meaty double helping of all the reasons you love our burger.",
       "categoryId": 5,
+      "category": "burger",
       "images": {
         "image1": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/33-1.png",
         "image2": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/33-2.png"
@@ -127,13 +134,14 @@
       "rate": 3.5,
       "description": "A mighty meaty double helping of all the reasons you love our burger.",
       "categoryId": 5,
+      "category": "burger",
       "images": {
         "image1": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/34-1.png",
         "image2": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/34-2.png"
       },
       "prices": {
         "firstPrice": 12.04,
-        "lastPrice": 9.0
+        "lastPrice": 9.00
       }
     },
     {
@@ -142,6 +150,7 @@
       "rate": 4,
       "description": "Iced coffee is a type of coffee beverage served chilled, brewed variously with the fundamental division",
       "categoryId": 3,
+      "category": "drinks",
       "images": {
         "image1": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/5-1.png",
         "image2": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/5-2.png"
@@ -156,6 +165,7 @@
       "rate": 3.5,
       "description": "Browse unique Coca-Cola products, clothing, & accessories, or customize Coke bottles and gifts",
       "categoryId": 3,
+      "category": "drinks",
       "images": {
         "image1": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/16-1.png",
         "image2": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/16-2.png"
@@ -170,13 +180,14 @@
       "rate": 3.5,
       "description": "Browse unique Coca-Cola products, clothing, & accessories, or customize Coke bottles and gifts",
       "categoryId": 3,
+      "category": "drinks",
       "images": {
         "image1": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/22-1.png",
         "image2": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/22-1.png"
       },
       "prices": {
         "firstPrice": 16.78,
-        "lastPrice": 11.0
+        "lastPrice": 11.00
       }
     },
     {
@@ -185,13 +196,14 @@
       "rate": 3.5,
       "description": "A mighty meaty double helping of all the reasons you love our burger.",
       "categoryId": 3,
+      "category": "drinks",
       "images": {
         "image1": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/24-1.png",
         "image2": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/24-2.png"
       },
       "prices": {
         "firstPrice": 12.46,
-        "lastPrice": 8.0
+        "lastPrice": 8.00
       }
     },
     {
@@ -200,6 +212,7 @@
       "rate": 3.8,
       "description": "Iced coffee is a type of coffee beverage served chilled, brewed variously with the fundamental division",
       "categoryId": 3,
+      "category": "drinks",
       "images": {
         "image1": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/27-1.png",
         "image2": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/27-1.png"
@@ -214,6 +227,7 @@
       "rate": 4,
       "description": "A mighty meaty double helping of all the reasons you love our burger.",
       "categoryId": 3,
+      "category": "drinks",
       "images": {
         "image1": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/25-1.png",
         "image2": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/25-1.png"
@@ -228,6 +242,7 @@
       "rate": 4,
       "description": "A mighty meaty double helping of all the reasons you love our burger.",
       "categoryId": 3,
+      "category": "drinks",
       "images": {
         "image1": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/28-1.png",
         "image2": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/28-2.png"
@@ -242,6 +257,7 @@
       "rate": 3.9,
       "description": "A mighty meaty double helping of all the reasons you love our burger.",
       "categoryId": 3,
+      "category": "drinks",
       "images": {
         "image1": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/22-1.png",
         "image2": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/22-2.png"
@@ -256,13 +272,14 @@
       "rate": 4.2,
       "description": "A mighty meaty double helping of all the reasons you love our burger.",
       "categoryId": 3,
+      "category": "drinks",
       "images": {
         "image1": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/45-1.png",
         "image2": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/45-1.png"
       },
       "prices": {
         "firstPrice": 18.86,
-        "lastPrice": 14.0
+        "lastPrice": 14.00
       }
     },
     {
@@ -271,13 +288,14 @@
       "rate": 4,
       "description": "Browse unique Coca-Cola products, clothing, & accessories, or customize Coke bottles and gifts",
       "categoryId": 3,
+      "category": "drinks",
       "images": {
         "image1": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/46-1.png",
         "image2": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/46-2.png"
       },
       "prices": {
         "firstPrice": 15.87,
-        "lastPrice": 9.0
+        "lastPrice": 9.00
       }
     },
     {
@@ -286,6 +304,7 @@
       "rate": 4,
       "description": "Trio Cafe is Family owned establishment located in Boston Waterfront next to World Trade Center.",
       "categoryId": 3,
+      "category": "drinks",
       "images": {
         "image1": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/50-1.png",
         "image2": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/50-2.png"
@@ -300,6 +319,7 @@
       "rate": 4.8,
       "description": "View great tasting Tropicana Orange Juice and Juice Drink Products. Featuring Tropicana Orange Juice",
       "categoryId": 3,
+      "category": "drinks",
       "images": {
         "image1": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/52-1.png",
         "image2": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/52-2.png"
@@ -314,6 +334,7 @@
       "rate": 3.5,
       "description": "Investing in a reusable water bottle that you can refill throughout the day. Carrying one around with you will make you more likely to drink up.",
       "categoryId": 3,
+      "category": "drinks",
       "images": {
         "image1": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/54.1.png",
         "image2": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/54-2.png"
@@ -328,6 +349,7 @@
       "rate": 3,
       "description": "A mighty meaty double helping of all the reasons you love our breast.",
       "categoryId": 4,
+      "category": "pasta",
       "images": {
         "image1": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/3-1.png",
         "image2": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/3-2.png"
@@ -343,6 +365,7 @@
       "rate": 3.5,
       "description": "A mighty meaty double helping of all the reasons you love our breast.",
       "categoryId": 4,
+      "category": "pasta",
       "images": {
         "image1": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/6-1.png",
         "image2": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/6-2.png"
@@ -358,6 +381,7 @@
       "rate": 3,
       "description": "A mighty meaty double helping of all the reasons you love our breast.",
       "categoryId": 4,
+      "category": "pasta",
       "images": {
         "image1": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/29-1.png",
         "image2": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/29-2.png"
@@ -373,12 +397,13 @@
       "rate": 3.5,
       "description": "A mighty meaty double helping of all the reasons you love our breast.",
       "categoryId": 4,
+      "category": "pasta",
       "images": {
         "image1": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/35-1.png",
         "image2": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/35-2.png"
       },
       "prices": {
-        "lastPrice": 14.4
+        "lastPrice": 14.40
       }
     },
     {
@@ -387,6 +412,7 @@
       "rate": 4.4,
       "description": "A mighty meaty double helping of all the reasons you love our breast.",
       "categoryId": 4,
+      "category": "pasta",
       "images": {
         "image1": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/43-1.png",
         "image2": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/43-2.png"
@@ -402,6 +428,7 @@
       "rate": 4.5,
       "description": "A mighty meaty double helping of all the reasons you love our breast.",
       "categoryId": 4,
+      "category": "pasta",
       "images": {
         "image1": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/49-1.png",
         "image2": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/49-2.png"
@@ -417,12 +444,13 @@
       "rate": 3.8,
       "description": "Crispy bacon, tasty ham, pineapple, onion and stretchy mozzarella, finished with a BBQ swirl.",
       "categoryId": 1,
+      "category": "pizza",
       "images": {
         "image1": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/1-1.png",
         "image2": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/1-2.png"
       },
       "prices": {
-        "lastPrice": 18.3
+        "lastPrice": 18.33
       }
     },
     {
@@ -431,6 +459,7 @@
       "rate": 3.8,
       "description": "Extra-virgin olive oil, mozzarella cheese, thinly-sliced steak meat, garlic, green peppers, mushrooms and tomatoes",
       "categoryId": 1,
+      "category": "pizza",
       "images": {
         "image1": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/9-1.png",
         "image2": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/9-2.png"
@@ -445,12 +474,13 @@
       "rate": 4.2,
       "description": "Quisque pretium turpis non tempus cursus. Nulla consequat, mi nec pellentesque imperdiet, mi quam congue magna, tristique commodo.",
       "categoryId": 1,
+      "category": "pizza",
       "images": {
         "image1": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/17-1.png",
         "image2": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/17-2.png"
       },
       "prices": {
-        "lastPrice": 7.0,
+        "lastPrice": 7.00,
         "firstPrice": 11.42
       }
     },
@@ -460,6 +490,7 @@
       "rate": 4,
       "description": "Mouth watering pepperoni, cabanossi, mushroom, capsicum, black olives and stretchy mozzarella, seasoned with garlic and oregano.",
       "categoryId": 1,
+      "category": "pizza",
       "images": {
         "image1": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/18-1.png",
         "image2": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/18-2.png"
@@ -474,6 +505,7 @@
       "rate": 4.1,
       "description": "Ricotta, sun dried tomatoes, garlic, mozzarella cheese, topped with lightly drizzled red sauce, pesto, and fresh basil",
       "categoryId": 1,
+      "category": "pizza",
       "images": {
         "image1": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/26-1.png",
         "image2": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/26-2.png"
@@ -488,12 +520,13 @@
       "rate": 4,
       "description": "Piled with shrimp, calamari, clams, mussels, surimi and stretchy mozzarella, seasoned with tangy lemon pepper.",
       "categoryId": 1,
+      "category": "pizza",
       "images": {
         "image1": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/36-1.png",
         "image2": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/36-2.png"
       },
       "prices": {
-        "lastPrice": 12.0,
+        "lastPrice": 12.00,
         "firstPrice": 15.88
       }
     },
@@ -503,6 +536,7 @@
       "rate": 3.1,
       "description": "Extra-virgin olive oil, garlic, mozzarella cheese, onions, mushrooms, green olives, black olives, fresh tomatoes.",
       "categoryId": 1,
+      "category": "pizza",
       "images": {
         "image1": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/37-1.png",
         "image2": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/37-2.png"
@@ -517,12 +551,13 @@
       "rate": 3.5,
       "description": "Mouth watering pepperoni, cabanossi, mushroom, capsicum, black olives and stretchy mozzarella,",
       "categoryId": 1,
+      "category": "pizza",
       "images": {
         "image1": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/40-1.png",
         "image2": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/40-2.png"
       },
       "prices": {
-        "lastPrice": 9.0,
+        "lastPrice": 9.00,
         "firstPrice": 15.83
       }
     },
@@ -532,12 +567,13 @@
       "rate": 3.8,
       "description": "Shrimp, Red Capsicum, Green Capsicum, Onion, Chilli flakes, Lemon Pepper, Mozzarella, finished with Aioli",
       "categoryId": 1,
+      "category": "pizza",
       "images": {
         "image1": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/47-1.png",
         "image2": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/47-2.png"
       },
       "prices": {
-        "lastPrice": 9.0,
+        "lastPrice": 9.00,
         "firstPrice": 15.83
       }
     },
@@ -547,6 +583,7 @@
       "rate": 4.4,
       "description": "Ricotta, sun dried tomatoes, garlic, mozzarella cheese, topped with lightly drizzled red sauce, pesto, and fresh basil",
       "categoryId": 1,
+      "category": "pizza",
       "images": {
         "image1": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/48-1.png",
         "image2": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/48-2.png"
@@ -561,12 +598,13 @@
       "rate": 4,
       "description": "Mouth watering pepperoni, cabanossi, mushroom, capsicum, black olives and stretchy mozzarella",
       "categoryId": 1,
+      "category": "pizza",
       "images": {
         "image1": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/51-1.png",
         "image2": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/51-2.png"
       },
       "prices": {
-        "lastPrice": 12.0,
+        "lastPrice": 12.00,
         "firstPice": 16.93
       }
     },
@@ -576,12 +614,13 @@
       "rate": 4,
       "description": "Extra-virgin olive oil, garlic, mozzarella cheese, onions, mushrooms, green olives, black olives",
       "categoryId": 1,
+      "category": "pizza",
       "images": {
         "image1": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/53-1.png",
         "image2": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/53-2.png"
       },
       "prices": {
-        "lastPrice": 14.9,
+        "lastPrice": 14.99,
         "firstPice": 16.93
       }
     }
