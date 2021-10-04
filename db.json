@@ -141,7 +141,7 @@
     {
       "id": 8,
       "name": "Pene Salmone",
-      "rate": 3.5,
+      "rate": 3.8,
       "description": "A mighty meaty double helping of all the reasons you love our Burger.",
       "categoryId": 5,
       "category": "Burger",
@@ -157,7 +157,7 @@
     {
       "id": 9,
       "name": "Blueberry Shake",
-      "rate": 4,
+      "rate": 4.2,
       "description": "Iced coffee is a type of coffee beverage served chilled, brewed variously with the fundamental division",
       "categoryId": 3,
       "category": "Drinks",
@@ -172,7 +172,7 @@
     {
       "id": 10,
       "name": "Fresh Lime",
-      "rate": 3.5,
+      "rate": 4.5,
       "description": "Browse unique Coca-Cola products, clothing, & accessories, or customize Coke bottles and gifts",
       "categoryId": 3,
       "category": "Drinks",
@@ -181,7 +181,8 @@
         "image2": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/16-2.png"
       },
       "prices": {
-        "lastPrice": 16.02
+        "lastPrice": 16.02,
+        "firstPrice": 14.02
       }
     },
     {
@@ -240,7 +241,7 @@
       "category": "Drinks",
       "images": {
         "image1": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/25-1.png",
-        "image2": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/25-1.png"
+        "image2": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/25-2.png"
       },
       "prices": {
         "lastPrice": 11.89
@@ -527,7 +528,7 @@
     {
       "id": 33,
       "name": "Pepperoni Calzone",
-      "rate": 4,
+      "rate": 4.5,
       "description": "Piled with shrimp, calamari, clams, mussels, surimi and stretchy mozzarella, seasoned with tangy lemon pepper.",
       "categoryId": 1,
       "category": "Pizza",
@@ -543,8 +544,8 @@
     {
       "id": 34,
       "name": "Pepperoni Pizza",
-      "rate": 3.1,
-      "description": "Extra-virgin olive oil, garlic, mozzarella cheese, onions, mushrooms, green olives, black olives, fresh tomatoes.",
+      "rate": 4.1,
+      "description": "Pizza, dish of Italian origin consisting of a flattened disk of bread dough topped with some combination of olive oil, oregano, tomato, olives, mozzarella or other cheese, and many other ingredients",
       "categoryId": 1,
       "category": "Pizza",
       "images": {
@@ -691,6 +692,7 @@
         "image2": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/44-2.png"
       },
       "prices": {
+        "firstPrice": 17.78,
         "lastPrice": 16.78
       }
     },
