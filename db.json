@@ -739,13 +739,6 @@
     }
   ],
   "carts": [
-    {
-      "id": 1,
-      "name": "Bacon Burger", 
-      "quantity": 1,
-      "userId": 1,
-      "image": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/2-1.png",
-      "price": 10.95
-    }
+    
   ]
 }
