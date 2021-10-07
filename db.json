@@ -120,7 +120,7 @@
       },
       "prices": {
         "firstPrice": 12.04,
-        "lastPrice": 9.00
+        "lastPrice": 9.0
       }
     },
     {
@@ -151,7 +151,7 @@
       },
       "prices": {
         "firstPrice": 12.04,
-        "lastPrice": 9.00
+        "lastPrice": 9.0
       }
     },
     {
@@ -198,7 +198,7 @@
       },
       "prices": {
         "firstPrice": 16.78,
-        "lastPrice": 11.00
+        "lastPrice": 11.0
       }
     },
     {
@@ -214,7 +214,7 @@
       },
       "prices": {
         "firstPrice": 12.46,
-        "lastPrice": 8.00
+        "lastPrice": 8.0
       }
     },
     {
@@ -290,7 +290,7 @@
       },
       "prices": {
         "firstPrice": 18.86,
-        "lastPrice": 14.00
+        "lastPrice": 14.0
       }
     },
     {
@@ -306,7 +306,7 @@
       },
       "prices": {
         "firstPrice": 15.87,
-        "lastPrice": 9.00
+        "lastPrice": 9.0
       }
     },
     {
@@ -414,7 +414,7 @@
         "image2": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/35-2.png"
       },
       "prices": {
-        "lastPrice": 14.40
+        "lastPrice": 14.4
       }
     },
     {
@@ -491,7 +491,7 @@
         "image2": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/17-2.png"
       },
       "prices": {
-        "lastPrice": 7.00,
+        "lastPrice": 7.0,
         "firstPrice": 11.42
       }
     },
@@ -537,7 +537,7 @@
         "image2": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/36-2.png"
       },
       "prices": {
-        "lastPrice": 12.00,
+        "lastPrice": 12.0,
         "firstPrice": 15.88
       }
     },
@@ -568,7 +568,7 @@
         "image2": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/40-2.png"
       },
       "prices": {
-        "lastPrice": 9.00,
+        "lastPrice": 9.0,
         "firstPrice": 15.83
       }
     },
@@ -584,7 +584,7 @@
         "image2": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/47-2.png"
       },
       "prices": {
-        "lastPrice": 9.00,
+        "lastPrice": 9.0,
         "firstPrice": 15.83
       }
     },
@@ -615,7 +615,7 @@
         "image2": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/51-2.png"
       },
       "prices": {
-        "lastPrice": 12.00,
+        "lastPrice": 12.0,
         "firstPice": 16.93
       }
     },
@@ -724,7 +724,7 @@
         "image2": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/11-2.png"
       },
       "prices": {
-        "lastPrice": 17.22  
+        "lastPrice": 17.22
       }
     }
   ],
@@ -738,7 +738,6 @@
       "password": "Vu15112000@"
     }
   ],
-  "carts": [
-    
-  ]
+  "carts": [],
+  "wishList": []
 }
