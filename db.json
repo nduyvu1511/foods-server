@@ -194,7 +194,7 @@
       "category": "Drinks",
       "images": {
         "image1": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/22-1.png",
-        "image2": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/22-1.png"
+        "image2": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/22-2.png"
       },
       "prices": {
         "firstPrice": 16.78,
@@ -226,7 +226,7 @@
       "category": "Drinks",
       "images": {
         "image1": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/27-1.png",
-        "image2": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/27-1.png"
+        "image2": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/27-2.png"
       },
       "prices": {
         "lastPrice": 12.33
@@ -659,7 +659,7 @@
       "category": "Hot Drinks",
       "images": {
         "image1": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/21-1.png",
-        "image2": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/22-1.png"
+        "image2": "https://demo2wpopal.b-cdn.net/poco/wp-content/uploads/2020/08/21-2.png"
       },
       "prices": {
         "lastPrice": 19.68
@@ -738,6 +738,8 @@
       "password": "Vu15112000@"
     }
   ],
+  
   "carts": [],
+
   "wishLists": []
 }
